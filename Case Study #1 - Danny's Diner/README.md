@@ -8,6 +8,8 @@ Danny wants to use the data to answer a few simple questions about his customers
 ## Entity Relationship Diagram
 <img width="536" alt="image" src="https://github.com/user-attachments/assets/c0580227-bcb2-49bb-ad10-030710d1e0ff">
 
+## Questions and solutions
+
 **1. What is the total amount each customer spent at the restaurant?**
 ````sql
 #--Method 1
