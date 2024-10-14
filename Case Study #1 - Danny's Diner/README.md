@@ -2,6 +2,8 @@
 
 <img src="https://github.com/user-attachments/assets/637b1318-0483-4dd5-93b5-b9fec2982aad" width="500" height="500">
 
+## Problem statement
+Danny wants to use the data to answer a few simple questions about his customers, especially about their visiting patterns, how much money they’ve spent and also which menu items are their favourite. Having this deeper connection with his customers will help him deliver a better and more personalised experience for his loyal customers.
 
 ## Entity Relationship Diagram
 <img width="536" alt="image" src="https://github.com/user-attachments/assets/c0580227-bcb2-49bb-ad10-030710d1e0ff">
